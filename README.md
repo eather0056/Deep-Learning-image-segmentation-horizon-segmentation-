@@ -1,6 +1,8 @@
 # Deep Learning Image Segmentation (Horizon Segmentation)
 
 Welcome to the "Deep Learning Image Segmentation (Horizon Segmentation)" repository! This project represents an in-depth exploration of deep learning techniques for image segmentation, specifically focusing on the task of distinguishing between the sea and the sky in image data. The work was completed as part of the coursework at the University de Toulon under the guidance of Professor Arnaud Pietrosemoli.
+### Google Colab
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nlb0lmy1Vjp-j6qzvD82GZkLJK4pGjr8#scrollTo=vDJuDBXqPxsB)
 
 ## Introduction
 
@@ -54,8 +56,6 @@ To get started, follow these steps:
 
 7. Document your experiments and results for future reference.
 
-### Google Colab
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nlb0lmy1Vjp-j6qzvD82GZkLJK4pGjr8#scrollTo=vDJuDBXqPxsB)
 
 ## License
 
