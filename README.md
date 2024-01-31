@@ -54,6 +54,9 @@ To get started, follow these steps:
 
 7. Document your experiments and results for future reference.
 
+### Google Colab
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nlb0lmy1Vjp-j6qzvD82GZkLJK4pGjr8#scrollTo=vDJuDBXqPxsB)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
