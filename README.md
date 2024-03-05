@@ -44,7 +44,7 @@ To get started, follow these steps:
    cd Deep-Learning-image-segmentation-horizon-segmentation
    ```
 
-2. Set up the required environment and dependencies (provide instructions or scripts if necessary).
+2. Set up the required environment and dependencies.
 
 3. Prepare your dataset and ensure it is properly labeled.
 
